@@ -1,3 +1,3 @@
 # Explore
 
-Its a development branch
+Its a feature-beta-band-rivet branch
